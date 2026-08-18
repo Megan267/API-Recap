@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="API-Class-1/API-Micro.csproj" />
+  <Project Path="API-Controllers/API-Controllers.csproj" />
+</Solution>
